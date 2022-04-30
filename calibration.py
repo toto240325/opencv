@@ -4,15 +4,13 @@
 # instead use python -m pip
 # python -m pip install autopep8 -U
 # venv
-
-
+# 
 
 import logging
 import cv2
 import numpy as np
 
 import utils
-
 
 
 def set_calibration(img, x, y, width, height):
