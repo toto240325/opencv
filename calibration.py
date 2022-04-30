@@ -4,7 +4,7 @@
 # instead use python -m pip
 # python -m pip install autopep8 -U
 # venv
-# 
+# $ kill  $(ps | grep ssh-agent | cut -d " " -f 5-10 | head -n 2)
 
 import logging
 import cv2
